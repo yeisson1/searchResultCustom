@@ -1,0 +1,5 @@
+@media only screen and (min-width: 40em) {
+    .sidebar {
+      width: 16rem;
+    }
+  }

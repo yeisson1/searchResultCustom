@@ -14,10 +14,10 @@ import FilterNavigatorContext, {
 } from './FilterNavigatorContext'
 import AccordionFilterContainer from './AccordionFilterContainer'
 import Sidebar from './SideBar'
-import { MAP_CATEGORY_CHAR } from '../constants'
-import { buildNewQueryMap } from '../hooks/useFacetNavigation'
+import { MAP_CATEGORY_CHAR } from '../constants/constants'
+import { buildNewQueryMap } from './hooks/useFacetNavigation'
 import styles from '../searchResult.css'
-import { getMainSearches } from '../utils/compatibilityLayer'
+import { getMainSearches } from './utils/compatibilityLayer'
 import {
   isCategoryDepartmentCollectionOrFT,
   filterCategoryDepartmentCollectionAndFT,

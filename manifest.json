@@ -21,7 +21,8 @@
     "vtex.styleguide":"9.x",
     "vtex.store-icons":"0.x",
     "vtex.pixel-manager":"1.x",
-    "vtex.format-currency":"0.x"
+    "vtex.format-currency":"0.x",
+    "vtex.store-components":"3.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

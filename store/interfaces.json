@@ -1,6 +1,7 @@
 {
   "filter-navigator.v2": {
     "component": "FilterNavigator",
-    "allowed": ["shop-review-summary", "sidebar-close-button"]
+    "allowed": ["shop-review-summary", "sidebar-close-button"],
+    "render":"client"
   }
 }
